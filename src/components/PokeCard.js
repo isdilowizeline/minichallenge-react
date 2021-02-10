@@ -1,6 +1,6 @@
 import { mockPokemonData as pokeData } from "../mock/pokeData";
-/*import React from "react";
-class PokeCard extends React.Component {
+import React from "react";
+/*class PokeCard extends React.Component {
   render() {
     return (
       <div>
